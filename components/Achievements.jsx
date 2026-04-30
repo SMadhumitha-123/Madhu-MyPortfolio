@@ -36,7 +36,7 @@ const achievementsData = [
   { img: ach11, desc: "Secured First Prize in 'TechTrivia' event in  Intra college Technical Symposium" },
 { img: ach12, desc: "Got Consolation Prize in Drawing Competition conducted on National Voter's Day 2026" },
 { img: ach13, desc: "Secured Rank 1 in Academic Year 2024-2025" },
-{ img: ach14, desc: "Got Engineering Excellence Award from Mistral Solutions Private Limited, Kovilaptti." },
+{ img: ach14, desc: "Got Engineering Excellence Award from Mistral Solutions Private Limited, Kovilpatti." },
 ]
 
 const Achievements = () => {
